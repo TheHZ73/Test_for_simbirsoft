@@ -1,0 +1,7 @@
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\bin\Release\FindWord_in_File.exe
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\bin\Release\FindWord_in_File.pdb
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Release\FindWord_in_File.Form1.resources
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Release\FindWord_in_File.Properties.Resources.resources
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Release\FindWord_in_File.csproj.GenerateResource.Cache
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Release\FindWord_in_File.exe
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Release\FindWord_in_File.pdb

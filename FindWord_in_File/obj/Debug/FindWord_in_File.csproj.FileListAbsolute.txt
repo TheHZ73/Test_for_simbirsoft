@@ -1,0 +1,32 @@
+D:\работа\FindWord_in_File\FindWord_in_File\bin\Debug\FindWord_in_File.exe
+D:\работа\FindWord_in_File\FindWord_in_File\bin\Debug\FindWord_in_File.pdb
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.csprojResolveAssemblyReference.cache
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.Form1.resources
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.Properties.Resources.resources
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.csproj.GenerateResource.Cache
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+D:\работа\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\bin\Debug\FindWord_in_File.exe
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\bin\Debug\FindWord_in_File.pdb
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.csprojResolveAssemblyReference.cache
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.Form1.resources
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.Properties.Resources.resources
+D:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.csproj.GenerateResource.Cache
+I:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+I:\тестовое задание\FindWord_in_File\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+I:\тестовое задание\FindWord_in_File\тестовое задание\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+I:\тестовое задание\FindWord_in_File\тестовое задание\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\тестовое задание\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+D:\тестовое задание\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+D:\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\bin\Debug\FindWord_in_File.exe
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\bin\Debug\FindWord_in_File.pdb
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.csprojResolveAssemblyReference.cache
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Form1.resources
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Properties.Resources.resources
+D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.csproj.GenerateResource.Cache
