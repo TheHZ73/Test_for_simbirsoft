@@ -37,6 +37,7 @@
             this.openFileDialog2 = new System.Windows.Forms.OpenFileDialog();
             this.KolStrokHtml = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
+            this.ProcessBigFile = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.KolStrokHtml)).BeginInit();
             this.SuspendLayout();
             // 
@@ -137,11 +138,24 @@
             this.label1.TabIndex = 6;
             this.label1.Text = "Количество строк в формируемых html файлах";
             // 
+            // ProcessBigFile
+            // 
+            this.ProcessBigFile.AutoSize = true;
+            this.ProcessBigFile.Checked = true;
+            this.ProcessBigFile.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ProcessBigFile.Location = new System.Drawing.Point(253, 55);
+            this.ProcessBigFile.Name = "ProcessBigFile";
+            this.ProcessBigFile.Size = new System.Drawing.Size(184, 17);
+            this.ProcessBigFile.TabIndex = 8;
+            this.ProcessBigFile.Text = "Обрабатывать большие файлы";
+            this.ProcessBigFile.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(517, 338);
+            this.Controls.Add(this.ProcessBigFile);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.KolStrokHtml);
             this.Controls.Add(this.PuthTestFile);
@@ -169,6 +183,7 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog2;
         private System.Windows.Forms.NumericUpDown KolStrokHtml;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.CheckBox ProcessBigFile;
     }
 }
 

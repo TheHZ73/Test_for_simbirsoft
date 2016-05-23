@@ -30,9 +30,9 @@ namespace FindWord_in_File
                 if ((Expansion1 == ".txt") && (Expansion2 == ".txt"))
                 {
                     FileInfo file = new FileInfo(PuthTestFile.Text);
-                    if (file.Length < 2000000)
+                    if ((file.Length < 2000000) || (ProcessBigFile.Checked == true))
                     {
-                        if (File.ReadAllLines(PuthDictionary.Text).Length < 100000)
+                        if ((File.ReadAllLines(PuthDictionary.Text).Length < 100000) || (ProcessBigFile.Checked == true))
                         {
                             var words = File.ReadLines(PuthDictionary.Text, Encoding.Default).Select(i => i.Trim()).ToArray();
 
