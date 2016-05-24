@@ -143,11 +143,11 @@
             this.ProcessBigFile.AutoSize = true;
             this.ProcessBigFile.Checked = true;
             this.ProcessBigFile.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ProcessBigFile.Location = new System.Drawing.Point(253, 55);
+            this.ProcessBigFile.Location = new System.Drawing.Point(299, 79);
             this.ProcessBigFile.Name = "ProcessBigFile";
-            this.ProcessBigFile.Size = new System.Drawing.Size(184, 17);
-            this.ProcessBigFile.TabIndex = 8;
-            this.ProcessBigFile.Text = "Обрабатывать большие файлы";
+            this.ProcessBigFile.Size = new System.Drawing.Size(168, 17);
+            this.ProcessBigFile.TabIndex = 7;
+            this.ProcessBigFile.Text = "Обработка больших файлов";
             this.ProcessBigFile.UseVisualStyleBackColor = true;
             // 
             // Form1

@@ -30,13 +30,12 @@ namespace FindWord_in_File
                 if ((Expansion1 == ".txt") && (Expansion2 == ".txt"))
                 {
                     FileInfo file = new FileInfo(PuthTestFile.Text);
-                    if ((file.Length < 2000000) || (ProcessBigFile.Checked == true))
+                    if ((file.Length < 2000000) || (ProcessBigFile.Checked==true)) 
                     {
-                        if ((File.ReadAllLines(PuthDictionary.Text).Length < 100000) || (ProcessBigFile.Checked == true))
+                        if ((File.ReadAllLines(PuthDictionary.Text).Length < 100000)|| (ProcessBigFile.Checked==true)) 
                         {
                             var words = File.ReadLines(PuthDictionary.Text, Encoding.Default).Select(i => i.Trim()).ToArray();
-
-
+                            
                             string result = " ";
                             int Counter_N = 0, z = 0;
                             using (var reader = new StreamReader(PuthTestFile.Text, Encoding.Default))
@@ -60,19 +59,8 @@ namespace FindWord_in_File
                                     result += "<br/>";
                                     if (Counter_N == KolStrokHtml.Value)
                                     {
-                                        string header = @"<!DOCTYPE html>
-                                    <html>
-                                    <head>
-                                    <title>Прочитанный файл</title>
-                                    <meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
-                                    </head>
-                                    <body>
-                                    <div style=""margin:30px"">
-                                    <p>" + result + @"</p>
-                                    </div>
-                                    </body>
-                                    </html> ";
-                                        File.WriteAllText("default" + z + ".html", header, Encoding.Default);
+                                        HtmlTextForRecordFile(result);
+                                        File.WriteAllText("default" + z + ".html", HtmlTextForRecordFile(result), Encoding.Default);
                                         z++;
                                         result = "";
                                         Counter_N = 0;
@@ -80,19 +68,8 @@ namespace FindWord_in_File
                                 }
                                 if (z == 0)
                                 {
-                                    string header = @"<!DOCTYPE html>
-                                    <html>
-                                    <head>
-                                    <title>Прочитанный файл</title>
-                                    <meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
-                                    </head>
-                                    <body>
-                                    <div style=""margin:30px"">
-                                    <p>" + result + @"</p>
-                                    </div>
-                                    </body>
-                                    </html> ";
-                                    File.WriteAllText("default.html", header, Encoding.Default);
+                                    HtmlTextForRecordFile(result);
+                                    File.WriteAllText("default.html", HtmlTextForRecordFile(result), Encoding.Default);
                                     MessageBox.Show("Файл сформирован и лежит в корневой папке под именем default.html");
                                 }
 
@@ -109,6 +86,22 @@ namespace FindWord_in_File
             else MessageBox.Show("Не найден файл словаря или проверяемый файл");
         }
 
+        //формирует текст для записи в один html документ
+        public string HtmlTextForRecordFile(string result)
+        { 
+            return      @"<!DOCTYPE html>
+                                    <html>
+                                    <head>
+                                    <title>Прочитанный файл</title>
+                                    <meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+                                    </head>
+                                    <body>
+                                    <div style=""margin:30px"">
+                                    <p>" + result + @"</p>
+                                    </div>
+                                    </body>
+                                    </html> ";
+        }
         //выбирает файл словаря
         private void OpenDict_Click(object sender, EventArgs e)
         {

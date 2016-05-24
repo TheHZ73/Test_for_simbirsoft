@@ -30,6 +30,14 @@ D:\Материалы\github\тестовое задание\тестовое з
 D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Form1.resources
 D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Properties.Resources.resources
 D:\Материалы\github\тестовое задание\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.csproj.GenerateResource.Cache
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.exe
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\bin\Debug\FindWord_in_File.exe
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\bin\Debug\FindWord_in_File.pdb
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.csprojResolveAssemblyReference.cache
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Form1.resources
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.Properties.Resources.resources
+I:\24.05.2016\тестовое задание C#\FindWord_in_File\obj\Debug\FindWord_in_File.csproj.GenerateResource.Cache
 D:\RepositorySimbirsoft\Test_for_simbirsoft\FindWord_in_File\obj\Debug\FindWord_in_File.exe
 D:\RepositorySimbirsoft\Test_for_simbirsoft\FindWord_in_File\obj\Debug\FindWord_in_File.pdb
 D:\RepositorySimbirsoft\Test_for_simbirsoft\FindWord_in_File\bin\Debug\FindWord_in_File.exe

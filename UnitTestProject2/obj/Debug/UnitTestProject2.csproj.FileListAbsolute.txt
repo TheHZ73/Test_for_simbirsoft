@@ -1,0 +1,21 @@
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\bin\Debug\FindWord_in_File.exe
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\bin\Debug\FindWord_in_File.pdb
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\Материалы\github\тестовое задание\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\bin\Debug\FindWord_in_File.exe
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\bin\Debug\FindWord_in_File.pdb
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+I:\24.05.2016\тестовое задание C#\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\bin\Debug\FindWord_in_File.exe
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\bin\Debug\FindWord_in_File.pdb
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\RepositorySimbirsoft\Test_for_simbirsoft\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
